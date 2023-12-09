@@ -5,12 +5,12 @@
 <h1 align="center">Hi 👋, I'm Mahmodul Hasan Robin</h1>
 <h3 align="center">As a passionate Frontend Developer well-versed in MERN Stack technologies, I am also a dedicated graduate student at the National University. Currently, 
 I am enhancing my skills in React, MongoDB, Firebase, Node.js, Express.js, and Next.js. My goal is to achieve pro-level proficiency in development,
- and I am actively seeking job opportunities to grow my skills in next level. I love exploring new technologies regularly,
+ and I am actively seeking job opportunities to grow my skills to the next level. I love exploring new technologies regularly,
  as I aim to be well-prepared for any stage in the future</h3>
 
 - 🌱 I’m currently learning **Javascript ,Next Js,MERN Stack**
 
-- 💬 Ask me about **React JS,Front End,MERN Stack**
+- 💬 Ask me about **React JS, Front End, MERN Stack**
 
 - 📫 How to reach me **mahmudulhasan7314@gmail.com**
 
@@ -38,7 +38,7 @@ I am enhancing my skills in React, MongoDB, Firebase, Node.js, Express.js, and N
 
 
 # My Recent Project :
-1.## Project Name: Learn Me (Educational Website)
+## 1.Project Name: Learn Me (Educational Website)
 ### Technology: 
 Front end: React Js.
 
@@ -63,7 +63,7 @@ Server site Repo:https://github.com/Mahmodul7314/Learn-Me-A12-Server-Side
 ### Technology: 
 Front end: React Js.
 
-Backend: Node Js , Express
+Backend: Node Js, Express
 
 Database: MongoDB
 
