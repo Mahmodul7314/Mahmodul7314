@@ -51,6 +51,12 @@ Authentication: JWT, Firebase
 UI Framework: Tailwind CSS (DaisyUI)
 
 Tools: Tanstakc Query
+Features: Learn Me is an Educational Website. Mainly it is Course course-selling website.
+Teachers can add their course to their account on the website and if the admin accepts his teaching 
+as a teacher and courses then General Users (Students) can purchase the course and they can learn anything by purchasing the course.
+This is Fully Responsive for Mobile and Tablet that's why users can use this website by phone or tablet.
+This website has a Different Dashboard for admin, Teachers, and general USers.
+The website is Secure with JWT and Firebase authentication.
 
 Live Link: https://learnme-83e14.web.app
 
@@ -71,6 +77,8 @@ Authentication: JWT, Firebase
 
 UI Framework: Tailwind CSS (DaisyUI)
 
+Features: This is Feeding BD  means Food Donation Website. There are many people wastages their food.
+and here people can Donation their food freely and help poor people with their extra food. Anyone can freely sign up here and if the admin accepts the donator then the donator can publish their food. overall admin and donator manage this program through this website.
 
 Website Link: https://feedingbd-720d6.web.app/
 
@@ -91,6 +99,7 @@ Authentication: Firebase
 
 UI Framework: Tailwind CSS (DaisyUI)
 
+Features: Az shop is a branding Products Selling website. By using this website Admin Can manage Product selling to the customers. This is Fully Responsive. here general users (customers) can buy any brand's products on this website.
 
 Live site Link Here: https://az-shop-project.web.app/
 
