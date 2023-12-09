@@ -65,7 +65,7 @@ Client Site Repo: https://github.com/Mahmodul7314/Learn-Me-A12-Client-Side
 Server site Repo:https://github.com/Mahmodul7314/Learn-Me-A12-Server-Side
 
 
-## 1. Project Name: Feeding BD (Food Donation Website)
+## 2. Project Name: Feeding BD (Food Donation Website)
 ### Technology: 
 Front end: React Js.
 
@@ -87,7 +87,7 @@ Client Site Repo: https://github.com/Mahmodul7314/feeding-bd-a11-client
 Server site Repo: https://github.com/Mahmodul7314/feeding-bd-a11-server
 
 
-## 1. Project Name: AZ Shop (Branding Products Selling Website)
+## 3. Project Name: AZ Shop (Branding Products Selling Website)
 ### Technology: 
 Front end: React Js.
 
