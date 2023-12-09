@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://i.ibb.co/cF1Spyn/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="" height="" width="700" /></a></p>
+<p><img align="center" src="https://i.ibb.co/cF1Spyn/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="" height="" width="1000" /></a></p>
 
 
 <h1 align="center">Hi 👋, I'm Mahmodul Hasan Robin</h1>
