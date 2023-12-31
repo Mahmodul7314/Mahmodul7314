@@ -65,7 +65,7 @@ Client Site Repo: https://github.com/Mahmodul7314/Learn-Me-A12-Client-Side
 Server site Repo:https://github.com/Mahmodul7314/Learn-Me-A12-Server-Side
 
 
-## 2. Project Name: Feeding BD (Food Donation Website)
+## 2. Project Name: Unity Food (Food Donation Website)
 ### Technology: 
 Front end: React Js.
 
@@ -77,7 +77,7 @@ Authentication: JWT, Firebase
 
 UI Framework: Tailwind CSS (DaisyUI)
 
-Features: This is Feeding BD  means Food Donation Website. There are many people wastages their food.
+Features: This is Unity Food  means Food Donation Website. There are many people wastages their food.
 and here people can Donation their food freely and help poor people with their extra food. Anyone can freely sign up here and if the admin accepts the donator then the donator can publish their food. overall admin and donator manage this program through this website.
 
 Website Link: https://feedingbd-720d6.web.app/
