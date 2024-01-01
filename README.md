@@ -38,7 +38,7 @@ I am enhancing my skills in React, MongoDB, Firebase, Node.js, Express.js, and N
 
 
 # My Recent Project :
-## 1. Project Name: Learn Me (Educational Website)
+## 1. Project Name: EduForge (Educational Website)
 ### Technology: 
 Front end: React Js.
 
@@ -51,7 +51,7 @@ Authentication: JWT, Firebase
 UI Framework: Tailwind CSS (DaisyUI)
 
 Tools: Tanstakc Query
-Features: Learn Me is an Educational Website. Mainly it is Course course-selling website.
+Features: EduForge is an Educational Website. Mainly it is course-selling website.
 Teachers can add their course to their account on the website and if the admin accepts his teaching 
 as a teacher and courses then General Users (Students) can purchase the course and they can learn anything by purchasing the course.
 This is Fully Responsive for Mobile and Tablet that's why users can use this website by phone or tablet.
